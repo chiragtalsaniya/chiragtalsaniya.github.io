@@ -1,90 +1,106 @@
 [
- {
-   "Number": 1,
-   "App Name": "Freshii",
-   "Platform": "Android",
-   "Link": "https://play.google.com/store/apps/details?id=com.freshii.freshii&hl=en_CA&gl=US",
-   "Description": "Freshii is a mobile app that allows users to order healthy and delicious meals from Freshii restaurants. It provides a convenient way for customers to browse the menu, place orders, and enjoy a seamless food delivery experience. Freshii's app boasts a user-friendly interface with intuitive navigation. It features a visually appealing menu, high-quality images of food items, and a straightforward ordering process.",
-   "Technologies": "Kotlin, MVVM with Clean Architecture, Room, Coroutines, Git, Stripe & PayPal Payment Gateway, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, Jetpack Libraries, TeamCity, JIRA, Bitbucket"
- },
- {
-   "Number": 2,
-   "App Name": "Pita Pit",
-   "Platform": "Android",
-   "Link": "https://play.google.com/store/apps/details?id=com.pitapit.app&hl=en_CA&gl=US",
-   "Description": "The Pita Pit app is designed for Android users who love fresh and customizable pita sandwiches. Users can explore the menu, customize their orders, and conveniently place orders for pickup or delivery. Pita Pit's app offers a visually appealing and user-friendly experience. The app's interface emphasizes simplicity and customization. Users can easily select their preferred ingredients, view nutritional information, and complete their orders quickly.",
-   "Technologies": "Kotlin, MVVM with Clean Architecture, Room, Coroutines, Git, Stripe & PayPal Payment Gateway, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, Jetpack Libraries, JIRA, Bitbucket"
- },
- {
-   "Number": 3,
-   "App Name": "Yogen Fruz",
-   "Platform": "Android",
-   "Link": "https://play.google.com/store/apps/details?id=com.gpotelnet.yogenfruzt&hl=en_CA&gl=US",
-   "Description": "Yogen Fruz's Android app offers a delightful experience for frozen yogurt lovers. Users can discover flavors, create their own yogurt combinations, and place orders for a tasty treat. Yogen Fruz's app showcases a vibrant and engaging interface. Users can easily browse through a wide range of yogurt flavors and toppings, creating their customized treats effortlessly. The app's intuitive layout and interactive design enhance the overall user experience.",
-   "Technologies": "Kotlin, MVVM with Clean Architecture, Git, Stripe Payment Gateway, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, Jenkins, JIRA, Bitbucket"
- },
- {
-   "Number": 4,
-   "App Name": "SMC",
-   "Platform": "Android",
-   "Link": "https://play.google.com/store/apps/details?id=in.smc&hl=en_CA&gl=US",
-   "Description": "The SMC app is designed for Surat residents to access important civic information, services, and updates provided by the Surat Municipal Corporation. It serves as a one-stop solution for city-related matters. SMC's app prioritizes ease of access to essential municipal services. It offers a clean and organized interface with clear categorization of services and information. Users can navigate the app with ease to pay bills, report issues, and stay informed about city updates.",
-   "Technologies": "Kotlin, MVVM, Room, SQLite, Bluetooth, Coroutines, Git, Google Pay & UPI Payment Gateway, RestFul APIs, Content Provider, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, JIRA, Bitbucket"
- },
- {
-   "Number": 5,
-   "App Name": "Surat Fort",
-   "Platform": "Android",
-   "Link": "https://play.google.com/store/apps/details?id=in.smc.suratfort&hl=en_CA&gl=US",
-   "Description": "Surat Fort is an app that allows users to explore the historical and cultural heritage of Surat, India. It provides a virtual tour of the fort, its history, and key points of interest. Surat Fort's app offers an immersive experience for history enthusiasts. Its user-friendly interface allows users to navigate the fort's virtual tour seamlessly. It provides rich multimedia content, such as images and descriptions, to enhance the user's understanding of the historical site.",
-   "Technologies": "Kotlin, MVP, SQLite, Git, QR Code Library, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, Jetpack Compose, JIRA, Bitbucket"
- },
- {
-   "Number": 6,
-   "App Name": "Smart Racks",
-   "Platform": "Android",
-   "Link": "https://play.google.com/store/apps/details?id=com.unoapp.smartracks.v2&hl=en_CA&gl=US",
-   "Description": "Smart Racks is a mobile app designed to streamline inventory management and tracking. It provides businesses with an efficient solution to manage their racks and assets. Smart Racks' app focuses on functionality and efficiency. Its intuitive design allows users to easily manage their inventory, track assets, and generate reports. The interface is organized, making it simple for businesses to streamline their inventory management processes.",
-   "Technologies": "Kotlin, MVVM with Clean Architecture, Room, Coroutines, Git, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, ExoPlayer, Beacon, JIRA, Bitbucket"
- },
- {
-   "Number": 7,
-   "App Name": "Wolfgang Puck",
-   "Platform": "Android",
-   "Link": "https://play.google.com/store/apps/details?id=wolfgangpuck.ecomm.unoapp.com&hl=en_CA&gl=US",
-   "Description": "The Wolfgang Puck app offers a delightful dining experience, allowing users to discover Wolfgang Puck's culinary creations, place orders, and enjoy gourmet meals. Wolfgang Puck's app presents users with a visually appealing menu and a smooth ordering process. The app's design focuses on showcasing the chef's culinary expertise through high-quality images and detailed descriptions of dishes. The user experience is tailored for food enthusiasts seeking a gourmet dining experience.",
-   "Technologies": "Kotlin, MVVM with Clean Architecture, Room, Coroutines, Git, Stripe & PayPal Payment Gateway, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, Jetpack Libraries, Bitbucket"
- },
- {
-   "Number": 8,
-   "App Name": "Cupid Diamond",
-   "Platform": "Android",
-   "Link": "https://play.google.com/store/apps/details?id=com.cupid.app&hl=en_CA&gl=US",
-   "Description": "Cupid Diamond is a mobile app for those in search of exquisite jewelry. Users can browse a wide range of diamond jewelry collections and make their selections. Cupid Diamond's app provides an elegant and user-friendly platform for jewelry enthusiasts. The app's interface is designed to showcase the beauty of the jewelry collections with high-quality images and detailed product information. The smooth navigation and customization options enhance the jewelry shopping experience.",
-   "Technologies": "Java, MVP, TortoiseGit, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle"
- },
- {
-   "Number": 9,
-   "App Name": "D Navinchandra",
-   "Platform": "Android",
-   "Link": "https://play.google.com/store/apps/details?id=com.coruscatellp.dnavinchandra&hl=en_CA&gl=US",
-   "Description": "The D Navinchandra app offers a unique shopping experience for luxury watch and jewelry enthusiasts. Users can explore high-end collections and make purchases. D Navinchandra's app exudes luxury and sophistication in its design. It provides a seamless shopping experience for luxury watch and jewelry aficionados. The app's interface is elegant and easy to navigate, allowing users to explore and purchase high-end products with ease.",
-   "Technologies": "Java, MVP, TortoiseGit, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle"
- },
- {
-   "Number": 10,
-   "App Name": "VSICON 2019",
-   "Platform": "Android",
-   "Link": "https://play.google.com/store/apps/details?id=com.smarthumanoid.vsicon2019&hl=en&gl=US",
-   "Description": "The VSICON 2019 app was developed for an event, providing attendees with access to event schedules, speaker information, and interactive features to enhance their conference experience. The VSICON 2019 app focuses on delivering a smooth and informative conference experience. Its user-friendly interface ensures that attendees can easily access event schedules, speaker profiles, and interactive features such as Q&A sessions and networking opportunities.",
-   "Technologies": "Java, MVP, TortoiseGit, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle"
- },
- {
-   "Number": 11,
-   "App Name": "World Clock: Maps Time Zones",
-   "Platform": "Android",
-   "Link": "https://play.google.com/store/apps/details?id=app.easyworldclock&hl=en_IN",
-   "Description": "The World Clock app is a handy tool for users to easily check the time and time zones across the globe. It simplifies world time tracking with a user-friendly interface. The World Clock app provides a straightforward and user-friendly solution for tracking time zones. Its interface is designed for simplicity, allowing users to easily search for and compare time zones across the world.",
-   "Technologies": "Java, MVP, TortoiseGit, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle"
- }
+  {
+    "Number": 1,
+    "App Name": "Freshii",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=com.freshii.freshii&hl=en_CA&gl=US",
+    "Description": "Freshii is a mobile app that allows users to order healthy and delicious meals from Freshii restaurants. It provides a convenient way for customers to browse the menu, place orders, and enjoy a seamless food delivery experience. Freshii's app boasts a user-friendly interface with intuitive navigation. It features a visually appealing menu, high-quality images of food items, and a straightforward ordering process.",
+    "Technologies": "Kotlin, MVVM with Clean Architecture, Room, Coroutines, Git, Stripe & PayPal Payment Gateway, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, Jetpack Libraries, TeamCity, JIRA, Bitbucket"
+  },
+  {
+    "Number": 2,
+    "App Name": "OldPazar - سوق العتيق تركيا",
+    "Platform": "Flutter",
+    "Link": "https://play.google.com/store/apps/details?id=com.flutterdevs.oldpazar&hl=en_IN",
+    "Description": "Old Pazar is the largest Arabic marketplace in Turkey. Buy and sell your car, mobile phone, home furniture, or any other item, find a place to live or find your dream job while in the comfort of your home. All of this is for free and just a few clicks away! The Turkish open Bazaar is now between hands.",
+    "Technologies": " Flutter,HttpClient, Clean Architecture,SQFLite, cached_network_image, BLoc, Provider, Git, Google and Apple Pay Sign-in Integration, Stripe & Apple Pay Payment Gateway, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for BLoC, Gradle, Jetpack Libraries, JIRA, Bitbucket"
+  },
+  {
+    "Number": 2,
+    "App Name": "Pita Pit",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=com.pitapit.app&hl=en_CA&gl=US",
+    "Description": "The Pita Pit app is designed for Android users who love fresh and customizable pita sandwiches. Users can explore the menu, customize their orders, and conveniently place orders for pickup or delivery. Pita Pit's app offers a visually appealing and user-friendly experience. The app's interface emphasizes simplicity and customization. Users can easily select their preferred ingredients, view nutritional information, and complete their orders quickly.",
+    "Technologies": "Kotlin, MVVM with Clean Architecture, Room, Coroutines, Git, Stripe & PayPal Payment Gateway, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, Jetpack Libraries, JIRA, Bitbucket"
+  },
+  {
+    "Number": 4,
+    "App Name": "Surat Municipal Corporation (SMC)",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=in.smc&hl=en_CA&gl=US",
+    "Description": "The SMC app is designed for Surat residents to access important civic information, services, and updates provided by the Surat Municipal Corporation. It serves as a one-stop solution for city-related matters. SMC's app prioritizes ease of access to essential municipal services. It offers a clean and organized interface with clear categorization of services and information. Users can navigate the app with ease to pay bills, report issues, and stay informed about city updates.",
+    "Technologies": "Kotlin, MVVM, Room, SQLite, Bluetooth, Coroutines, Git, Google Pay & UPI Payment Gateway, RestFul APIs, Content Provider, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, JIRA, Bitbucket"
+  },
+  {
+    "Number": 4,
+    "App Name": "SMC COVID-19 Tracker",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=in.smc.covidout&hl=en_CA&gl=US",
+    "Description": "Surat Municipal Corporation(SMC) has taken various initiatives to fight COVID-19.\n\nA team of developers at the Information Technology (IT) department of SMC has developed SMC COVID-19 Tracker System which includes a web portal and mobile application named “SMC COVID-19 Tracker” to track people who have abroad or interstate travel history and persons who have come in direct contact with positive COVID-19 individual.\n\nDetails of travelers and other individuals are collected through various sources like Self Declaration form on SMC website, calls received on helpline number, international traveler information received from Government of India(GoI), etc.",
+    "Technologies": "Kotlin, MVVM, SQLite, Bluetooth, Coroutines, Git, CameraX, RestFul APIs, Content Provider, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, JIRA, Bitbucket"
+  },
+  {
+    "Number": 3,
+    "App Name": "Yogen Fruz",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=com.gpotelnet.yogenfruzt&hl=en_CA&gl=US",
+    "Description": "Yogen Fruz's Android app offers a delightful experience for frozen yogurt lovers. Users can discover flavors, create their own yogurt combinations, and place orders for a tasty treat. Yogen Fruz's app showcases a vibrant and engaging interface. Users can easily browse through a wide range of yogurt flavors and toppings, creating their customized treats effortlessly. The app's intuitive layout and interactive design enhance the overall user experience.",
+    "Technologies": "Kotlin, MVVM with Clean Architecture, Git, Stripe Payment Gateway, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, Jenkins, JIRA, Bitbucket"
+  },
+  {
+    "Number": 5,
+    "App Name": "Surat Fort",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=in.smc.suratfort&hl=en_CA&gl=US",
+    "Description": "Surat Fort is an app that allows users to explore the historical and cultural heritage of Surat, India. It provides a virtual tour of the fort, its history, and key points of interest. Surat Fort's app offers an immersive experience for history enthusiasts. Its user-friendly interface allows users to navigate the fort's virtual tour seamlessly. It provides rich multimedia content, such as images and descriptions, to enhance the user's understanding of the historical site.",
+    "Technologies": "Kotlin, MVP, SQLite, Git, QR Code Library, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, Jetpack Compose, JIRA, Bitbucket"
+  },
+  {
+    "Number": 6,
+    "App Name": "Smart Racks",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=com.unoapp.smartracks.v2&hl=en_CA&gl=US",
+    "Description": "Smart Racks is a mobile app designed to streamline inventory management and tracking. It provides businesses with an efficient solution to manage their racks and assets. Smart Racks' app focuses on functionality and efficiency. Its intuitive design allows users to easily manage their inventory, track assets, and generate reports. The interface is organized, making it simple for businesses to streamline their inventory management processes.",
+    "Technologies": "Kotlin, MVVM with Clean Architecture, Room, Coroutines, Git, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, ExoPlayer, Beacon, JIRA, Bitbucket"
+  },
+  {
+    "Number": 7,
+    "App Name": "Wolfgang Puck",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=wolfgangpuck.ecomm.unoapp.com&hl=en_CA&gl=US",
+    "Description": "The Wolfgang Puck app offers a delightful dining experience, allowing users to discover Wolfgang Puck's culinary creations, place orders, and enjoy gourmet meals. Wolfgang Puck's app presents users with a visually appealing menu and a smooth ordering process. The app's design focuses on showcasing the chef's culinary expertise through high-quality images and detailed descriptions of dishes. The user experience is tailored for food enthusiasts seeking a gourmet dining experience.",
+    "Technologies": "Kotlin, MVVM with Clean Architecture, Room, Coroutines, Git, Stripe & PayPal Payment Gateway, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, Jetpack Libraries, Bitbucket"
+  },
+  {
+    "Number": 8,
+    "App Name": "Cupid Diamond",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=com.cupid.app&hl=en_CA&gl=US",
+    "Description": "Cupid Diamond is a mobile app for those in search of exquisite jewelry. Users can browse a wide range of diamond jewelry collections and make their selections. Cupid Diamond's app provides an elegant and user-friendly platform for jewelry enthusiasts. The app's interface is designed to showcase the beauty of the jewelry collections with high-quality images and detailed product information. The smooth navigation and customization options enhance the jewelry shopping experience.",
+    "Technologies": "Java, MVP, TortoiseGit, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle"
+  },
+  {
+    "Number": 9,
+    "App Name": "D Navinchandra",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=com.coruscatellp.dnavinchandra&hl=en_CA&gl=US",
+    "Description": "The D Navinchandra app offers a unique shopping experience for luxury watch and jewelry enthusiasts. Users can explore high-end collections and make purchases. D Navinchandra's app exudes luxury and sophistication in its design. It provides a seamless shopping experience for luxury watch and jewelry aficionados. The app's interface is elegant and easy to navigate, allowing users to explore and purchase high-end products with ease.",
+    "Technologies": "Java, MVP, TortoiseGit, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle"
+  },
+  {
+    "Number": 10,
+    "App Name": "VSICON 2019",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=com.smarthumanoid.vsicon2019&hl=en&gl=US",
+    "Description": "The VSICON 2019 app was developed for an event, providing attendees with access to event schedules, speaker information, and interactive features to enhance their conference experience. The VSICON 2019 app focuses on delivering a smooth and informative conference experience. Its user-friendly interface ensures that attendees can easily access event schedules, speaker profiles, and interactive features such as Q&A sessions and networking opportunities.",
+    "Technologies": "Java, MVP, TortoiseGit, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle"
+  },
+  {
+    "Number": 11,
+    "App Name": "World Clock: Maps Time Zones",
+    "Platform": "Android",
+    "Link": "https://play.google.com/store/apps/details?id=app.easyworldclock&hl=en_IN",
+    "Description": "The World Clock app is a handy tool for users to easily check the time and time zones across the globe. It simplifies world time tracking with a user-friendly interface. The World Clock app provides a straightforward and user-friendly solution for tracking time zones. Its interface is designed for simplicity, allowing users to easily search for and compare time zones across the world.",
+    "Technologies": "Java, MVP, TortoiseGit, RestFul APIs, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle"
+  }
 ]
