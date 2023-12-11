@@ -9,7 +9,7 @@
   },
   {
     "Number": 2,
-    "App Name": "OldPazar - سوق العتيق تركيا",
+    "App Name": "Old Pazar",
     "Platform": "Flutter",
     "Link": "https://play.google.com/store/apps/details?id=com.flutterdevs.oldpazar&hl=en_IN",
     "Description": "Old Pazar is the largest Arabic marketplace in Turkey. Buy and sell your car, mobile phone, home furniture, or any other item, find a place to live or find your dream job while in the comfort of your home. All of this is for free and just a few clicks away! The Turkish open Bazaar is now between hands.",
@@ -25,10 +25,10 @@
   },
   {
     "Number": 4,
-    "App Name": "Surat Municipal Corporation (SMC)",
+    "App Name": "SMC",
     "Platform": "Android",
     "Link": "https://play.google.com/store/apps/details?id=in.smc&hl=en_CA&gl=US",
-    "Description": "The SMC app is designed for Surat residents to access important civic information, services, and updates provided by the Surat Municipal Corporation. It serves as a one-stop solution for city-related matters. SMC's app prioritizes ease of access to essential municipal services. It offers a clean and organized interface with clear categorization of services and information. Users can navigate the app with ease to pay bills, report issues, and stay informed about city updates.",
+    "Description": "The Surat Municipal Corporation (SMC) app is designed for Surat residents to access important civic information, services, and updates provided by the Surat Municipal Corporation. It serves as a one-stop solution for city-related matters. SMC's app prioritizes ease of access to essential municipal services. It offers a clean and organized interface with clear categorization of services and information. Users can navigate the app with ease to pay bills, report issues, and stay informed about city updates.",
     "Technologies": "Kotlin, MVVM, Room, SQLite, Bluetooth, Coroutines, Git, Google Pay & UPI Payment Gateway, RestFul APIs, Content Provider, Third-party Libraries Integration, Firebase, Firebase Analytics, Maps SDK for Android, Gradle, JIRA, Bitbucket"
   },
   {
